@@ -1,5 +1,6 @@
 # 💫 About Me:
 hello just a random girl that do random stuff
+and i help people 
 
 
 # 💻 Tech Stack:
